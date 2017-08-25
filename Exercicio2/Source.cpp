@@ -5,7 +5,7 @@
 * O sistema deve permitir que o usuário determine qual o dia da semana prefere locar o filme. 
 * Remover o usuário da lista apenas nos respectivos dias.
 */
-
+															  
 #include <stdio.h>
 #include <stdlib.h>
 

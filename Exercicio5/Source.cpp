@@ -2,7 +2,7 @@
 * Criar um programa que realize o enfileiramento e desenfileiramento de números inteiros positivos em uma Fila. 
 * Para este exercício utilizar um vetor de 10 posições para simular o conceito de Fila. 
 * Os números deverão ser colocados e retirados da Fila um a um.
-*/
+*/													   
 
 #include <stdio.h>
 #include <stdlib.h>

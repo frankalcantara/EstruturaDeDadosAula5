@@ -8,7 +8,7 @@
 	Construa um programa que:
 		a.	Permita incluir novos vinhos na adega;
 		b.	Informe qual vinho deve ser aberto em uma ocasião especial;
-*/
+*/								   
 
 #include <stdio.h>
 #include <stdlib.h>

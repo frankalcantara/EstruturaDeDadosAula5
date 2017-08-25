@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+	   
 int main() {
 	//inicializando as váriáveis
 	int x = 5, y = 7, teste = 21, aux = 17;

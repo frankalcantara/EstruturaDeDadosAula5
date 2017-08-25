@@ -3,7 +3,7 @@
 * Neste exemplo temos as funções básicas de uma pilha, funções de pop e push. 
 * e uma função para listar a pilha apenas para verificar o que está acontecendo.
 * Uma pilha seguindo a regra último a entrar, primeiro a sair.
-*/
+*/							    
 #include <stdio.h>
 #include <stdlib.h>
 

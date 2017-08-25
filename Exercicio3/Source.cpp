@@ -11,7 +11,7 @@
 * Neste programa, a retirada de um produto significa que ele sais da fila de entrada e vai para a fila de saída.
 * Considere também que o usuário pode resolver tirar diversos itens de uma mesma fila.
 */
-
+																  
 #include <stdio.h>
 #include <stdlib.h>
 

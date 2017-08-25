@@ -7,7 +7,7 @@
 * Os dados de saída deverão ser apresentados na tela.
 */
 
-#include <stdio.h>
+#include <stdio.h>									  
 #include <stdlib.h>
 
 #define TAMANHONOME 30

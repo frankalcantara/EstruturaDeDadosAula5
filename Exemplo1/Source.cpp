@@ -5,7 +5,7 @@ int main() {
 	int x, y, teste, aux;
 	//apenas para testar as variáveis
 	x = 5;
-	y = 7;
+	y = 7;												    
 	teste = 21;
 	aux = 17;
 	//usaremos para imprimir o endereço de uma variável a opção %p do printf

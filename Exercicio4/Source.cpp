@@ -2,7 +2,7 @@
 * Criar um programa que realize o empilhamento e desempilhamento de números inteiros positivos em uma Pilha.
 * Para este exercício utilizar um vetor de 10 posições para simular o conceito de Pilha.
 * Neste caso, uma posição de pilha não utilizada deverá conter o valor -1
-*/
+*/														  
 
 #include <stdio.h>
 #include <stdlib.h>
